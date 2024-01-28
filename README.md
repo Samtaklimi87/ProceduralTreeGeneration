@@ -1,7 +1,8 @@
 # ProceduralTreeGeneration 
 We employed the Pix2Pix algorithm and modified its code to suit our objective, which involves separating leaves from branches using a Generative Adversarial Network (GAN).
 
-Here is the link to the original Colab notebook for Pix2Pix: Pix2Pix Colab Notebook()https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=_xnMOsbqHz61&uniqifier=1. As mentioned in the report, this notebook serves as a reference for the Pix2Pix implementation. 
+Here is the link to the original Colab notebook for Pix2Pix: Pix2Pix Colab Notebook(https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/pix2pix.ipynb#scrollTo=_xnMOsbqHz61&uniqifier=1). 
+As mentioned in the report, this notebook serves as a reference for the Pix2Pix implementation. 
 
 # Combine_A_and_B'
 To combine Folder A and Folder B, use the script 'combine_A_and_B.' Make sure to modify the path to your data.
